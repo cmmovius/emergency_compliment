@@ -6,6 +6,7 @@
 
   function ComplimentsController(){
     var vm = this;
+    vm.allData = data;
   }
 
 }());
